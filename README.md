@@ -1,0 +1,3 @@
+# simplefactorycpp
+
+simple factory
